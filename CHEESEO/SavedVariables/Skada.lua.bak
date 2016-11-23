@@ -1,0 +1,21 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Redtusk - Turalyon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["point"] = "CENTER",
+					["x"] = 296.0001220703125,
+					["y"] = -60.00009155273438,
+				}, -- [1]
+			},
+		},
+	},
+}

@@ -1,0 +1,85 @@
+VER 3 010000000000000A "Blackout Kick" "ABILITY_MONK_ROUNDHOUSEKICK"
+#showtooltip
+/cast Blackout Kick
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000011 "Chi Wave" "ABILITY_MONK_CHIWAVE"
+#showtooltip
+/cast Chi Wave
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000008 "Crackling Jade L" "ABILITY_MONK_CRACKLINGJADELIGHTNING"
+#showtooltip
+/cast Crackling Jade Lightning
+/stopcasting
+/stopcasting
+/startattack
+END
+VER 3 0100000000000001 "Detox" "ABILITY_ROGUE_IMROVEDRECUPERATE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Detox
+END
+VER 3 010000000000000D "Disable" "ABILITY_SHOCKWAVE"
+#showtooltip
+/cast Disable
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000002 "Effuse" "ABILITY_MONK_EFFUSE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Effuse
+END
+VER 3 0100000000000003 "Enveloping Mist" "SPELL_MONK_ENVELOPINGMIST"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Enveloping Mist
+END
+VER 3 010000000000000C "Fists of Fury" "MONK_ABILITY_FISTOFFURY"
+#showtooltip Fists of Fury
+/use Ring of Collapsing Futures
+/cast Fists of Fury
+END
+VER 3 0100000000000004 "Life Cocoon" "ABILITY_MONK_CHICOCOON"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Life Cocoon
+END
+VER 3 0100000000000005 "Renewing Mist" "ABILITY_MONK_RENEWINGMISTS"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Renewing Mist
+END
+VER 3 010000000000000B "Rising Sun Kick" "ABILITY_MONK_RISINGSUNKICK"
+#showtooltip
+/cast Rising Sun Kick
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000006 "Sheilun's Gift" "INV_STAFF_2H_ARTIFACTSHAOHAO_D_01"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Sheilun's Gift
+END
+VER 3 010000000000000E "Spear Hand Strik" "ABILITY_MONK_SPEARHAND"
+#showtooltip
+/cast Spear Hand Strike
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000012 "Spinning Crane K" "ABILITY_MONK_CRANEKICK_NEW"
+#showtooltip
+/cast Spinning Crane Kick
+/use Ring of Collapsing Futures
+END
+VER 3 010000000000000F "Strike of the Wi" "INV_HAND_1H_ARTIFACTSKYWALL_D_01"
+#showtooltip
+/cast Strike of the Windlord(Artifact)
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000009 "Tiger Palm" "ABILITY_MONK_TIGERPALM"
+#showtooltip
+/cast Tiger Palm
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000010 "Touch of Death" "ABILITY_MONK_TOUCHOFDEATH"
+#showtooltip
+/cast Touch of Death
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000007 "Vivify" "ABILITY_MONK_VIVIFY"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Vivify
+END

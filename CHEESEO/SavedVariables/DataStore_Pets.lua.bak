@@ -1,0 +1,13 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825650,
+			},
+		},
+	},
+}

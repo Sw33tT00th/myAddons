@@ -1,0 +1,228 @@
+------------------------------------------------------------------------
+r420 | starinnia | 2016-08-14 14:55:43 +0000 (Sun, 14 Aug 2016) | 1 line
+Changed paths:
+   A /tags/4.0.13 (from /trunk:419)
+
+Tagging as 4.0.13
+------------------------------------------------------------------------
+r419 | starinnia | 2016-08-14 14:49:58 +0000 (Sun, 14 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Another spot of crossing width/height for Vertical
+------------------------------------------------------------------------
+r417 | starinnia | 2016-08-14 14:26:55 +0000 (Sun, 14 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Options/Options.lua
+
+Add some help text for setting Height and Width with new model
+------------------------------------------------------------------------
+r416 | starinnia | 2016-08-14 14:08:43 +0000 (Sun, 14 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Options/Options.lua
+
+Update labeling for new height and width options
+------------------------------------------------------------------------
+r415 | starinnia | 2016-08-14 14:06:54 +0000 (Sun, 14 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Fix UpdateSettings when in Vertical mode
+------------------------------------------------------------------------
+r413 | starinnia | 2016-08-10 00:38:22 +0000 (Wed, 10 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Chi.lua
+
+Restore proper Text handling to Chi
+------------------------------------------------------------------------
+r412 | starinnia | 2016-08-10 00:34:09 +0000 (Wed, 10 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Chi.lua
+
+Make the Chi module talent aware
+------------------------------------------------------------------------
+r410 | starinnia | 2016-08-08 23:53:00 +0000 (Mon, 08 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Options/Options.lua
+
+Update display when changing the new Text display option
+------------------------------------------------------------------------
+r409 | starinnia | 2016-08-08 23:33:10 +0000 (Mon, 08 Aug 2016) | 2 lines
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/SoulShards.lua
+   M /trunk/Options/Options.lua
+
+Merge bugfixes from majineko
+Add option to hide the text at zero point
+------------------------------------------------------------------------
+r407 | starinnia | 2016-08-07 19:54:26 +0000 (Sun, 07 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/SoulShards.lua
+
+Fix coloring the graphics, merge from majineko on GitHub
+------------------------------------------------------------------------
+r405 | starinnia | 2016-08-07 13:12:56 +0000 (Sun, 07 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Default empty point alpha to 0 to match previous behavior for existing users
+------------------------------------------------------------------------
+r404 | starinnia | 2016-08-07 03:26:33 +0000 (Sun, 07 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Tweak
+------------------------------------------------------------------------
+r403 | starinnia | 2016-08-07 01:55:44 +0000 (Sun, 07 Aug 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/SoulShards.lua
+   M /trunk/Options/Options.lua
+
+Merge better talent support from majineko on GitHub
+------------------------------------------------------------------------
+r401 | starinnia | 2016-07-30 01:30:37 +0000 (Sat, 30 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Update frame naming
+------------------------------------------------------------------------
+r400 | starinnia | 2016-07-29 23:40:09 +0000 (Fri, 29 Jul 2016) | 2 lines
+Changed paths:
+   M /trunk/Core.lua
+
+Remove another location where Warlock specs affected visibility
+Name frames for other addons like King Kong UI Hider
+------------------------------------------------------------------------
+r398 | starinnia | 2016-07-28 22:19:36 +0000 (Thu, 28 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/SoulShards.lua
+
+Remove spec limitations from Soul Shards module
+------------------------------------------------------------------------
+r396 | starinnia | 2016-07-23 01:33:17 +0000 (Sat, 23 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/SoulShards.lua
+
+Soulshard max is 5
+------------------------------------------------------------------------
+r394 | starinnia | 2016-07-22 22:09:14 +0000 (Fri, 22 Jul 2016) | 2 lines
+Changed paths:
+   D /trunk/Modules/Runes.lua
+   M /trunk/Options/Options.lua
+   M /trunk/modules.xml
+
+Fix Druid options
+Remove DK Runes
+------------------------------------------------------------------------
+r392 | starinnia | 2016-07-21 23:50:27 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Options/Options.lua
+
+Poke the packager
+------------------------------------------------------------------------
+r391 | starinnia | 2016-07-21 23:17:16 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+poke
+------------------------------------------------------------------------
+r389 | starinnia | 2016-07-21 23:13:49 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/Runes.lua
+   M /trunk/Modules/SoulShards.lua
+
+Fix max power values
+------------------------------------------------------------------------
+r387 | starinnia | 2016-07-21 22:54:31 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/Runes.lua
+   M /trunk/Modules/SoulShards.lua
+
+Default values for MAX_POINTS since UnitPowerMax sometimes returns 0 during initial loads into the game
+------------------------------------------------------------------------
+r384 | starinnia | 2016-07-21 00:55:36 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Options/Options.lua
+
+Remove the old way of getting combo points, totally doesn't work anymore
+------------------------------------------------------------------------
+r383 | starinnia | 2016-07-21 00:46:41 +0000 (Thu, 21 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+Advanced Point Tracking on by default for Combo Points now
+------------------------------------------------------------------------
+r381 | starinnia | 2016-07-20 23:19:44 +0000 (Wed, 20 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/modules.xml
+
+Update modules.xml
+------------------------------------------------------------------------
+r380 | starinnia | 2016-07-20 23:05:28 +0000 (Wed, 20 Jul 2016) | 2 lines
+Changed paths:
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/Runes.lua
+
+Fix combo points for non-rogues
+Fix Runes not loading for DKs
+------------------------------------------------------------------------
+r379 | starinnia | 2016-07-20 23:01:54 +0000 (Wed, 20 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Combo.lua
+
+Fix Combo module #47
+------------------------------------------------------------------------
+r376 | starinnia | 2016-07-20 00:22:35 +0000 (Wed, 20 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/Modules/Arcane.lua
+   M /trunk/Modules/Chi.lua
+   M /trunk/Modules/Combo.lua
+   M /trunk/Modules/HolyPower.lua
+   M /trunk/Modules/Runes.lua
+   M /trunk/Modules/SoulShards.lua
+
+Legion updates 2
+------------------------------------------------------------------------
+r375 | starinnia | 2016-07-20 00:16:14 +0000 (Wed, 20 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/ComboPointsRedux.toc
+   D /trunk/Modules/Anticipation.lua
+   M /trunk/Modules/Arcane.lua
+   D /trunk/Modules/BanditsGuile.lua
+   D /trunk/Modules/BoneShield.lua
+   D /trunk/Modules/Embers.lua
+   D /trunk/Modules/Evangelism.lua
+   D /trunk/Modules/Frenzy.lua
+   D /trunk/Modules/Fulmination.lua
+   D /trunk/Modules/Lacerate.lua
+   A /trunk/Modules/Runes.lua
+   D /trunk/Modules/ShadowOrbs.lua
+   M /trunk/Modules/SoulShards.lua
+   M /trunk/Options/ComboPointsRedux_Options.toc
+   M /trunk/modules.xml
+
+Legion updates, first round
+------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+VER 3 0000000000000007 "Annoying" "ABILITY_ROGUE_SINISTERCALLING"
+/y "I'm singing!"
+/y "I'm in a store and I"m singing!"
+END
+VER 3 0000000000000006 "chicken" "Ability_BullRush"
+/chicken
+END
+VER 3 0000000000000013 "extend camera" "INV_MISC_QUESTIONMARK"
+/console cameraDistanceMaxFactor 2.6 /console cameraDistanceMoveSpeed 50 /run CameraZoomOut(50)
+END
+VER 3 0000000000000011 "Focus" "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 0000000000000001 "follow" "Ability_Druid_Dash"
+/follow
+END
+VER 3 000000000000000F "Freeze" "SPELL_FROST_FROSTNOVA"
+#shottooltip Freeze
+/cast Freeze
+END
+VER 3 0000000000000012 "Healing" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] 
+END
+VER 3 0000000000000010 "Mark" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+END
+VER 3 000000000000000C "thing" "INV_MISC_QUESTIONMARK"
+"Something for Canada Day. Not to into Canadian things"
+END

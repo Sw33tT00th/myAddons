@@ -1,0 +1,11 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["options"] = {
+			["UI.Minimap.IconAngle"] = 315.30972731593,
+		},
+	},
+}

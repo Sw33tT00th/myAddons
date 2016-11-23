@@ -1,0 +1,13 @@
+VER 3 0100000000000003 "Imp Swarm" "INV_MISC_QUESTIONMARK"
+#showtooltip Imp Swarm
+/cast Imp Swarm
+END
+VER 3 0100000000000001 "Malefic Grasp" "ABILITY_WARLOCK_EVERLASTINGAFFLICTION"
+#showtooltip Malefic Grasp
+/cast [nochanneling] Malefic Grasp
+END
+VER 3 0100000000000002 "Soul Swap" "ABILITY_WARLOCK_SOULSWAP"
+#showtooltip Soul Swap
+/cast Soulburn
+/cast Soul Swap
+END

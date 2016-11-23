@@ -1,0 +1,23 @@
+
+DataStore_ReputationsDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825650,
+				["Factions"] = {
+					[113] = 3100,
+					[7] = 500,
+					[8] = 500,
+					[10] = 4000,
+					[9] = 3100,
+					[6] = 500,
+					[76] = 3500,
+					[78] = 3100,
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,120 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825662,
+				["Containers"] = {
+					["Bag4"] = {
+						["rarity"] = 1,
+						["ids"] = {
+							133310, -- [1]
+							112453, -- [2]
+							123959, -- [3]
+							112450, -- [4]
+							112455, -- [5]
+							112456, -- [6]
+							130317, -- [7]
+							130261, -- [8]
+							133580, -- [9]
+							112462, -- [10]
+							130267, -- [11]
+							112459, -- [12]
+							112451, -- [13]
+							130267, -- [14]
+							130265, -- [15]
+							130264, -- [16]
+							130268, -- [17]
+							130266, -- [18]
+							112454, -- [19]
+							112457, -- [20]
+						},
+						["links"] = {
+							"|cffa335ee|Hitem:133310::::::::100:577::11:1:545:::|h[The Brood Queen's Veil]|h|r", -- [1]
+							"|cff1eff00|Hitem:112453::::::::100:577::::::|h[Illidari Belt]|h|r", -- [2]
+							"|cff1eff00|Hitem:123959::::::::100:577::::::|h[Demon Trophy]|h|r", -- [3]
+							"|cff1eff00|Hitem:112450::::::::100:577::::::|h[Illidari Blindfold]|h|r", -- [4]
+							"|cff1eff00|Hitem:112455::::::::100:577::::::|h[Illidari Gloves]|h|r", -- [5]
+							"|cff1eff00|Hitem:112456::::::::100:577::::::|h[Illidari Shoulders]|h|r", -- [6]
+							"|cff9d9d9d|Hitem:130317::::::::100:577::::::|h[Fractured Trophy]|h|r", -- [7]
+							"|cff9d9d9d|Hitem:130261::::::::100:577::::::|h[Brutarg's Sword]|h|r", -- [8]
+							"|cff0070dd|Hitem:133580::::::::100:577::::::|h[Brutarg's Sword Tip]|h|r", -- [9]
+							"|cff1eff00|Hitem:112462::::::::100:577::::::|h[Illidari Drape]|h|r", -- [10]
+							"|cff9d9d9d|Hitem:130267::::::::100:577::::::|h[Extinguished Demon Stone]|h|r", -- [11]
+							"|cff1eff00|Hitem:112459::::::::100:577::::::|h[Illidari Ring]|h|r", -- [12]
+							"|cff1eff00|Hitem:112451::::::::100:577::::::|h[Illidari Leggings]|h|r", -- [13]
+							"|cff9d9d9d|Hitem:130267::::::::100:577::::::|h[Extinguished Demon Stone]|h|r", -- [14]
+							"|cff9d9d9d|Hitem:130265::::::::100:577::::::|h[Sharpened Canine]|h|r", -- [15]
+							"|cff9d9d9d|Hitem:130264::::::::100:577::::::|h[Fel-Stained Claw]|h|r", -- [16]
+							"|cff9d9d9d|Hitem:130268::::::::100:577::::::|h[Bone Toothpick]|h|r", -- [17]
+							"|cff9d9d9d|Hitem:130266::::::::100:577::::::|h[Trophy Spine]|h|r", -- [18]
+							"|cff1eff00|Hitem:112454::::::::100:577::::::|h[Illidari Robe]|h|r", -- [19]
+							"|cff1eff00|Hitem:112457::::::::100:577::::::|h[Illidari Boots]|h|r", -- [20]
+						},
+						["link"] = "|cffffffff|Hitem:123958::::::::100:577::::::|h[Demon Hide Satchel]|h|r",
+						["icon"] = 133664,
+						["size"] = 20,
+						["counts"] = {
+							[11] = 22,
+							[17] = 10,
+							[15] = 4,
+							[18] = 2,
+							[14] = 50,
+							[16] = 36,
+						},
+					},
+					["Bag0"] = {
+						["ids"] = {
+							6948, -- [1]
+							132752, -- [2]
+							129192, -- [3]
+							129196, -- [4]
+							129104, -- [5]
+						},
+						["links"] = {
+							"|cffffffff|Hitem:6948::::::::100:577::::::|h[Hearthstone]|h|r", -- [1]
+							"|cffffffff|Hitem:132752::::::::100:577::::::|h[Illidari Rations]|h|r", -- [2]
+							"|cff0070dd|Hitem:129192::::::::100:577::::::|h[Inquisitor's Menacing Eye]|h|r", -- [3]
+							"|cffffffff|Hitem:129196::::::::100:577::::::|h[Legion Healthstone]|h|r", -- [4]
+							"|cff0070dd|Hitem:129104::::::::100:577::11::::|h[Brand of the Banshee Queen]|h|r", -- [5]
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["counts"] = {
+							[2] = 4,
+							[4] = 5,
+						},
+						["freeslots"] = 11,
+					},
+					["Bag1"] = {
+						["link"] = "|cffffffff|Hitem:123958::::::::100:577::::::|h[]|h|r",
+						["icon"] = 133664,
+						["size"] = 20,
+						["freeslots"] = 20,
+					},
+					["Bag2"] = {
+						["link"] = "|cffffffff|Hitem:123958::::::::100:577::::::|h[]|h|r",
+						["icon"] = 133664,
+						["size"] = 20,
+						["freeslots"] = 20,
+					},
+					["Bag3"] = {
+						["link"] = "|cffffffff|Hitem:123958::::::::100:577::::::|h[]|h|r",
+						["icon"] = 133664,
+						["size"] = 20,
+						["freeslots"] = 20,
+					},
+					["Bag-3"] = {
+						["size"] = 98,
+					},
+				},
+				["numFreeBagSlots"] = 71,
+				["numBagSlots"] = 96,
+			},
+		},
+		["Version"] = 1,
+	},
+}

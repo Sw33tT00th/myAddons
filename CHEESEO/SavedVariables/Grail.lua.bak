@@ -1,0 +1,21 @@
+
+GrailDatabase = {
+	["learned"] = {
+		["NPC_LOCATION"] = {
+			"22566|enUS|3000000|479:57.23,66.06|19644", -- [1]
+			"22566|enUS|3000001|479:36.60,24.90|22293", -- [2]
+			"22566|enUS|20779|479:54.59,43.95", -- [3]
+		},
+		["QUEST"] = {
+			[10176] = "K0680 A:3000000",
+			[10850] = "T:3000001",
+			[10413] = "K0700 A:20779|enUS:The Horrors of Pollution",
+			[10209] = "T:3000000",
+		},
+	},
+	["SpecialQuests"] = {
+		["Nether Gas In a Fel Fire Engine"] = 22566,
+	},
+	["delayEventsHandled"] = true,
+	["delayEvents"] = true,
+}

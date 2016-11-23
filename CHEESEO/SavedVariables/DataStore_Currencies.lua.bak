@@ -1,0 +1,22 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825650,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-0-0",
+					[390] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[392] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[824] = "0-0-0-0",
+				},
+			},
+		},
+	},
+}

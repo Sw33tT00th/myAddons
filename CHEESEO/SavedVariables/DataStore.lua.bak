@@ -1,0 +1,17 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Dawnbringer"] = "Dawnbringer",
+		},
+	},
+}

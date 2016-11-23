@@ -1,0 +1,32 @@
+VER 3 0100000000000006 "Levitate" "SPELL_HOLY_LAYONHANDS"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Levitate
+END
+VER 3 0100000000000001 "Mind Sear" "SPELL_SHADOW_MINDSHEAR"
+#ShowToolTip Mind Sear
+/cast [@focus] Mind Sear
+END
+VER 3 0100000000000007 "Pain Suppression" "SPELL_HOLY_PAINSUPRESSION"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Pain Suppression
+END
+VER 3 0100000000000002 "Plea" "SPELL_HOLY_HEAL"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Plea
+END
+VER 3 0100000000000005 "Power Word: Radi" "SPELL_PRIEST_POWER WORD"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Power Word: Radiance
+END
+VER 3 0100000000000003 "Power Word: Shie" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Power Word: Shield
+END
+VER 3 0100000000000004 "Purify" "SPELL_HOLY_DISPELMAGIC"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Purify
+END
+VER 3 0100000000000008 "Shadow Mend" "SPELL_SHADOW_SHADOWMEND"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Shadow Mend
+END

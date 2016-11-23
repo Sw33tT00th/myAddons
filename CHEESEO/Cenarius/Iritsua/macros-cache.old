@@ -1,0 +1,29 @@
+VER 3 0100000000000002 "Aspect of the Wi" "SPELL_NATURE_PROTECTIONFORMNATURE"
+#showtooltip
+/cast Aspect of the Wild
+/cast Blood Fury(Racial)
+END
+VER 3 0100000000000001 "Kill Command" "ABILITY_HUNTER_KILLCOMMAND"
+#showtooltip
+/startattack
+/cast Kill Command
+END
+VER 3 0100000000000004 "Lacerate" "ABILITY_HUNTER_MASTERSCALL"
+#showtooltip Lacerate
+/petattack
+/cast Lacerate
+END
+VER 3 0100000000000005 "Marked Shot" "ABILITY_HUNTER_MARKEDSHOT"
+#showtooltip Marked Shot
+/petattack
+/cast Marked Shot
+END
+VER 3 0100000000000006 "Misdirect" "ABILITY_HUNTER_MISDIRECTION"
+#showtooltip Misdirection
+/cast [@focus,help,nodead][@pet,help,nodead]Misdirection
+END
+VER 3 0100000000000003 "Multi-Shot" "ABILITY_UPGRADEMOONGLAIVE"
+#showtooltip Multi-Shot
+/petattack
+/cast Multi-Shot
+END

@@ -1,0 +1,10 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Meticulous - Tarren Mill"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

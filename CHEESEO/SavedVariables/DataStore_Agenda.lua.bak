@@ -1,0 +1,18 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 3,
+			["NextWeeklyReset"] = "2016-09-28",
+		},
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825667,
+			},
+		},
+	},
+}

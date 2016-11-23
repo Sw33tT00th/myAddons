@@ -1,0 +1,34 @@
+
+DataStore_InventoryDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["Inventory"] = {
+					"|cffffffff|Hitem:141650::::::::100:577::11::::|h[]|h|r", -- [1]
+					"|cffffffff|Hitem:112461::::::::100:577::::::|h[]|h|r", -- [2]
+					"|cffffffff|Hitem:133311::::::::100:577::11::::|h[]|h|r", -- [3]
+					nil, -- [4]
+					"|cffffffff|Hitem:133312::::::::100:577::11::::|h[]|h|r", -- [5]
+					"|cffffffff|Hitem:133315::::::::100:577::11::::|h[]|h|r", -- [6]
+					"|cffffffff|Hitem:133316::::::::100:577::11::::|h[]|h|r", -- [7]
+					"|cffffffff|Hitem:133317::::::::100:577::11::::|h[]|h|r", -- [8]
+					"|cffffffff|Hitem:112452::::::::100:577::::::|h[]|h|r", -- [9]
+					"|cffffffff|Hitem:133314::::::::100:577::11::::|h[]|h|r", -- [10]
+					"|cffffffff|Hitem:128946::::::::100:577::::::|h[]|h|r", -- [11]
+					"|cffffffff|Hitem:112460::::::::100:577::::::|h[]|h|r", -- [12]
+					"|cffffffff|Hitem:128958::::::::100:577::::::|h[]|h|r", -- [13]
+					"|cffffffff|Hitem:123960::::::::100:577::::::|h[]|h|r", -- [14]
+					"|cffffffff|Hitem:128944::::::::100:577::::::|h[]|h|r", -- [15]
+					"|cffffffff|Hitem:128956::::::::100:577::::::|h[]|h|r", -- [16]
+					"|cffffffff|Hitem:132243::::::::100:577::::::|h[]|h|r", -- [17]
+				},
+				["averageItemLvl"] = 676.25,
+				["overallAIL"] = 677.8125,
+				["lastUpdate"] = 1474825650,
+			},
+		},
+	},
+}

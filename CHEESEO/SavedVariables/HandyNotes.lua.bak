@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Meticulous - Tarren Mill"] = "Meticulous - Tarren Mill",
+	},
+	["profiles"] = {
+		["Meticulous - Tarren Mill"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Meticulous - Tarren Mill"] = "Meticulous - Tarren Mill",
+	},
+	["profiles"] = {
+		["Meticulous - Tarren Mill"] = {
+		},
+	},
+}

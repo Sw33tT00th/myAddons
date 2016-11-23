@@ -1,0 +1,27 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Myieria - Proudmoore"] = "Myieria - Proudmoore",
+	},
+	["profiles"] = {
+		["Myieria - Proudmoore"] = {
+			["PositionW"] = 201.000061035156,
+			["PositionH"] = 176.999984741211,
+			["VGrip2"] = 115.575088001292,
+			["PositionY"] = 368.999542236328,
+			["Background"] = {
+				["EdgeSize"] = 1,
+				["BarInset"] = 2,
+			},
+			["Shown"] = false,
+			["PositionX"] = 1670.00036621094,
+			["MinimapIcon"] = {
+				["minimapPos"] = 19.3164871672638,
+			},
+			["VGrip1"] = 85.4250650444329,
+			["Bar"] = {
+				["Spacing"] = 1,
+			},
+		},
+	},
+}

@@ -1,0 +1,10 @@
+VER 3 0100000000000002 "Cooldowns" "ABILITY_DRUID_BERSERK"
+#showtooltip Berserk
+/cast Berserk
+/cast Incarnation: King of the Jungle
+END
+VER 3 0100000000000001 "Flight Form" "ABILITY_DRUID_FLIGHTFORM"
+#showtooltip Moonkin Form
+/cast Travel Form
+/cast Moonkin Form
+END

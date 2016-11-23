@@ -1,0 +1,10 @@
+
+LoremasterVars = {
+	["profileKeys"] = {
+		["Brownoser - Dawnbringer"] = "profile",
+	},
+	["profiles"] = {
+		["profile"] = {
+		},
+	},
+}

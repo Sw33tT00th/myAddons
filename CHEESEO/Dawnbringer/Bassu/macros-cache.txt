@@ -1,0 +1,47 @@
+VER 3 0100000000000010 "Chain Heal" "SPELL_NATURE_HEALINGWAVELESSER"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Chain Heal
+END
+VER 3 0100000000000011 "Cleanse" "ABILITY_SHAMAN_CLEANSESPIRIT"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Purify Spirit
+END
+VER 3 0100000000000005 "Elemental Master" "SPELL_NATURE_WISPHEAL"
+#showtooltip Elemental Mastery
+/cast Elemental Mastery
+/cast Berserking
+END
+VER 3 0100000000000007 "Enhancement" "SPELL_FIRE_ELEMENTALDEVASTATION"
+#showtooltip Ascendance
+/cast Ascendance
+/cast Berserking
+/cast Fire Elementalblarg
+/cast Elemental Mastery
+END
+VER 3 010000000000000A "Gust of Wind" "ABILITY_SKYREACH_FOUR_WIND"
+#showtooltip
+/stopcasting
+/cast Gust of Wind
+END
+VER 3 010000000000000E "Healing Surge" "SPELL_NATURE_HEALINGWAY"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Healing Surge
+END
+VER 3 010000000000000D "Healing Wave" "SPELL_NATURE_HEALINGWAVELESSER"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][]  Healing Wave
+END
+VER 3 010000000000000B "Lava Burst" "SPELL_SHAMAN_LAVABURST"
+#showtooltip
+/stopcasting
+/cast Lava Burst
+END
+VER 3 010000000000000C "Purge" "SPELL_NATURE_PURGE"
+#showtooltip
+/stopcasting
+/cast [@focus,exists][@target] Purge
+END
+VER 3 010000000000000F "Riptide" "SPELL_NATURE_RIPTIDE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Riptide
+END

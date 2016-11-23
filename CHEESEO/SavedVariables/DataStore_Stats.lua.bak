@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825662,
+				["Stats"] = {
+					["Ranged"] = "1-1|0|0|0|29.87272644043",
+					["HealthMax"] = 281520,
+					["Melee"] = "4828-5436|2.2480001449585|5547|0|29.87272644043|0",
+					["MaxPower"] = "17|100",
+					["Defense"] = "1056|1|15.231834411621|3|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "1207|5547|4692|711|1056",
+					["Spell"] = "711|711|0|29.87272644043|1565|0",
+				},
+			},
+		},
+	},
+}

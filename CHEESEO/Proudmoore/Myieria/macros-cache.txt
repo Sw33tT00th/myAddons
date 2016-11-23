@@ -1,0 +1,3 @@
+VER 3 0100000000000001 "Cancel DC" "ABILITY_MAGE_FIRESTARTER"
+/cancelaura Demonic Circle
+END

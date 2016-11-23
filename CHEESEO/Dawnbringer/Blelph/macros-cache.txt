@@ -1,0 +1,40 @@
+VER 3 0100000000000005 "Detox" "ABILITY_ROGUE_IMROVEDRECUPERATE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Detox
+END
+VER 3 0100000000000002 "Effuse" "ABILITY_MONK_EFFUSE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Effuse
+END
+VER 3 0100000000000008 "Enveloping Mist" "SPELL_MONK_ENVELOPINGMIST"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Enveloping Mist
+END
+VER 3 0100000000000003 "Essence Font" "ABILITY_MONK_ESSENCEFONT"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Essence Font
+END
+VER 3 0100000000000006 "Healing Elixir" "ABILITY_MONK_JASMINEFORCETEA"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Healing Elixir
+END
+VER 3 0100000000000009 "Life Cocoon" "ABILITY_MONK_CHICOCOON"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Life Cocoon
+END
+VER 3 0100000000000004 "Renewing Mist" "ABILITY_MONK_RENEWINGMISTS"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Renewing Mist
+END
+VER 3 010000000000000A "Sheilun's Gift" "INV_STAFF_2H_ARTIFACTSHAOHAO_D_01"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Sheilun's Gift
+END
+VER 3 0100000000000007 "Tiger's Lust" "ABILITY_MONK_TIGERSLUST"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Tiger's Lust
+END
+VER 3 010000000000000B "Vivify" "ABILITY_MONK_VIVIFY"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Vivify
+END

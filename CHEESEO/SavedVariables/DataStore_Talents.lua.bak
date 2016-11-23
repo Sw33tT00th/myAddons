@@ -1,0 +1,43 @@
+
+DataStore_TalentsDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["lastUpdate"] = 1474825650,
+				["Specializations"] = {
+					9, -- [1]
+				},
+				["Class"] = "DEMONHUNTER",
+			},
+		},
+	},
+}
+DataStore_TalentsRefDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["DEMONHUNTER"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 577,
+					["talents"] = {
+						21854, -- [1]
+						22493, -- [2]
+						22416, -- [3]
+						21857, -- [4]
+						22765, -- [5]
+						22799, -- [6]
+					},
+					["icon"] = "Interface\\Icons\\ability_demonhunter_specdps",
+					["name"] = "Havoc",
+				}, -- [1]
+			},
+			["Version"] = 22624,
+		},
+	},
+}

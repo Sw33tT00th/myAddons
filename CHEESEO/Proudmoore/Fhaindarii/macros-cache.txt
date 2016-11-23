@@ -1,0 +1,24 @@
+VER 3 0100000000000004 "Detox" "ABILITY_ROGUE_IMROVEDRECUPERATE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Detox
+END
+VER 3 0100000000000001 "Effuse" "ABILITY_MONK_EFFUSE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Effuse
+END
+VER 3 0100000000000002 "Enveloping Mists" "SPELL_MONK_ENVELOPINGMIST"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Enveloping Mist
+END
+VER 3 0100000000000006 "Life Cocoon" "ABILITY_MONK_CHICOCOON"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Life Cocoon
+END
+VER 3 0100000000000003 "Renewing Mist" "ABILITY_MONK_RENEWINGMISTS"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Renewing Mist
+END
+VER 3 0100000000000005 "Vivify" "ABILITY_MONK_VIVIFY"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Vivify
+END

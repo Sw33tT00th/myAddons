@@ -1,0 +1,27 @@
+VER 3 0100000000000001 "Ambush" "ABILITY_ROGUE_AMBUSH"
+#showtooltip Ambush
+/cast Premeditation
+/cast Ambush
+END
+VER 3 0100000000000006 "Burst of Speed" "ROGUE_BURSTOFSPEED"
+#showtooltip Burst of Speed
+/cast Burst of Speed
+END
+VER 3 0100000000000005 "Shadowstep" "132303"
+#showtooltip Shadowstep
+/cast Shadowstep
+END
+VER 3 0100000000000004 "Shadowstep" "132303"
+#showtooltip Shadowstep
+/cast Feint
+/cast Shadowstep
+END
+VER 3 0100000000000002 "Stealt Speed" "ROGUE_BURSTOFSPEED"
+#showtooltip Burst of Speed
+/cast Burst of Speed
+/cast Feint
+END
+VER 3 0100000000000003 "Tricks" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [target=focus] Tricks of the Trade
+END

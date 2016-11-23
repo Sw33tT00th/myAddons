@@ -1,0 +1,31 @@
+VER 3 0100000000000004 "5-man" "ABILITY_WARRIOR_RAMPAGE"
+/cast Bloodbath
+/cast Recklessness
+/cast Berserker Rage
+/use Potion of Mogu Power
+/use 13
+/use 14
+END
+VER 3 0100000000000003 "Berserker Rage" "SPELL_NATURE_ANCESTRALGUARDIAN"
+#showtooltip Berserker Rage
+/cast Berserker Rage
+/use 13
+END
+VER 3 0100000000000001 "Death to All" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/cast Bloodbath
+/cast Recklessness
+/cast Berserker Rage
+/use Draenic Strength Potion
+/use 13
+/use 14
+END
+VER 3 0100000000000002 "Power Up" "ACHIEVEMENT_BG_GETXFLAGS_NO_DIE"
+/cast Skull Banner
+/cast Avatar
+/cast Demoralizing Banner
+/cast Berserker Rage
+/cast Recklessness
+/cast Lifeblood
+/use 13
+/use 14
+END

@@ -1,0 +1,29 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["enableBlizzardHealing"] = false,
+			["scrollAreas"] = {
+				["Outgoing"] = {
+					["offsetY"] = -187,
+					["offsetX"] = 512,
+				},
+				["Incoming"] = {
+					["offsetY"] = -187,
+					["offsetX"] = -512,
+				},
+				["Static"] = {
+					["disabled"] = true,
+				},
+			},
+			["enableBlizzardDamage"] = false,
+			["creationVersion"] = "5.7.146",
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}

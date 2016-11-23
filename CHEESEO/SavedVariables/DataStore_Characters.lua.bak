@@ -1,0 +1,30 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Haulij - Dawnbringer"] = "Haulij - Dawnbringer",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Dawnbringer.Haulij"] = {
+				["XPMax"] = 657000,
+				["played"] = 6979,
+				["isResting"] = true,
+				["lastUpdate"] = 1474825674,
+				["class"] = "Demon Hunter",
+				["race"] = "Blood Elf",
+				["level"] = 100,
+				["XP"] = 18153,
+				["RestXP"] = 689952,
+				["money"] = 7640000,
+				["gender"] = 3,
+				["subZone"] = "Valley of Strength",
+				["name"] = "Haulij",
+				["faction"] = "Horde",
+				["englishRace"] = "BloodElf",
+				["zone"] = "Orgrimmar",
+				["lastLogoutTimestamp"] = 1474825674,
+				["englishClass"] = "DEMONHUNTER",
+			},
+		},
+	},
+}

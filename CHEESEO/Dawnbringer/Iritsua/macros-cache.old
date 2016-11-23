@@ -1,0 +1,26 @@
+VER 3 0100000000000002 "Dire Beast" "INV_MISC_QUESTIONMARK"
+#showtooltip Dire Beast
+/petattack
+/startattack
+/cast Dire Beast
+END
+VER 3 0100000000000005 "Intimidation" "INV_MISC_QUESTIONMARK"
+#showtooltip Intimidation
+/petattack
+/cast Intimidation
+END
+VER 3 0100000000000003 "Kill Command" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/cast Kill Command
+/startattack
+END
+VER 3 0100000000000001 "Misdirect" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/cast [@focus, help] [@pet, nodead, exists] Misdirection
+END
+VER 3 0100000000000004 "Stampede" "INV_MISC_QUESTIONMARK"
+#showtooltip Stampede
+/petattack
+/cast Stampede
+END

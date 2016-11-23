@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "Freeze" "SPELL_FROST_FROSTNOVA"
+#shottooltip Freeze
+/cast Freeze
+END
+VER 3 0100000000000002 "Water Jet" "INV_MISC_QUESTIONMARK"
+#showtooltip Water Jet
+/cast Water Jet
+END

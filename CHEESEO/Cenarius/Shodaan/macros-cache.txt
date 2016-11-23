@@ -1,0 +1,44 @@
+VER 3 0100000000000001 "Beacon of Light" "ABILITY_PALADIN_BEACONOFLIGHT"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Beacon of Light
+END
+VER 3 0100000000000002 "Bestow Faith" "ABILITY_PALADIN_BLESSEDMENDING"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Bestow Faith
+END
+VER 3 0100000000000003 "Blessing of Free" "SPELL_HOLY_SEALOFVALOR"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Blessing of Freedom
+END
+VER 3 0100000000000004 "Blessing of Prot" "SPELL_HOLY_SEALOFPROTECTION"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Blessing of Protection
+END
+VER 3 0100000000000005 "Blessing of Sacr" "SPELL_HOLY_SEALOFSACRIFICE"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Blessing of Sacrifice
+END
+VER 3 0100000000000006 "Cleanse" "SPELL_HOLY_PURIFY"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Cleanse
+END
+VER 3 0100000000000007 "Flash of Light" "SPELL_HOLY_FLASHHEAL"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Flash of Light
+END
+VER 3 0100000000000008 "Holy Light" "SPELL_HOLY_SURGEOFLIGHT"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Holy Light
+END
+VER 3 0100000000000009 "Holy Shock" "SPELL_HOLY_SEARINGLIGHT"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Holy Shock
+END
+VER 3 010000000000000A "Lay on Hands" "SPELL_HOLY_LAYONHANDS"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Lay on Hands
+END
+VER 3 010000000000000B "Light of the Mar" "ABILITY_PALADIN_LIGHTOFTHEMARTYR"
+#showtooltip
+/cast [@mouseover,help][@target,help][@targettarget,help][] Light of the Martyr
+END
